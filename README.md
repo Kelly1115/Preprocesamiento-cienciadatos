@@ -19,5 +19,6 @@ El objetivo principal es preparar los datos para su posterior análisis, modelad
 - docs/                    # Evidencias y capturas de pantalla
 - scripts/                 # Scripts adicionales (opcional)
 - preprocesamiento.py      # Script principal del proyecto
-- README.md                # Descripción general del proyecto
+- README.mdgit branch -d feature-preprocesamiento
+                # Descripción general del proyecto
 - DOCUMENTACION.md         # Informe completo con evidencias y explicación
