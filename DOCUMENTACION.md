@@ -16,19 +16,19 @@ El propósito principal es aprender a trabajar con control de versiones, colabor
 ## 2. Comandos Git Utilizados
 
 **Configuración del usuario**
-git config --global user.name "Kelly1115"
-git config --global user.email "kelly.merino@unach.edu.ec"
-git init
-git clone https://github.com/Kelly1115/preprocesamiento-cienciadatos.git
-git branch feature-preprocesamiento
-git checkout feature-preprocesamiento
-git add .
-git commit -m "Creación del archivo preprocesamiento.py"
-git push origin feature-preprocesamiento
-git checkout main
-git merge feature-preprocesamiento
-git branch -d feature-preprocesamiento
-git push origin main
+- git config --global user.name "Kelly1115"
+- git config --global user.email "kelly.merino@unach.edu.ec"
+- git init
+- git clone https://github.com/Kelly1115/preprocesamiento-cienciadatos.git
+- git branch feature-preprocesamiento
+- git checkout feature-preprocesamiento
+- git add .
+- git commit -m "Creación del archivo preprocesamiento.py"
+- git push origin feature-preprocesamiento
+- git checkout main
+- git merge feature-preprocesamiento
+- git branch -d feature-preprocesamiento
+- git push origin main
 
 Descripción de comandos:
 
@@ -86,18 +86,18 @@ Cuando GitHub muestra el ícono en verde, significa que el flujo se ejecutó cor
 ---
 
 ## 4. Evidencias
-Comandos ejecutados
+### Comandos ejecutados
 
-Se registraron los comandos utilizados para la configuración, creación de ramas, commits y sincronización con GitHub.
+- Se registraron los comandos utilizados para la configuración, creación de ramas, commits y sincronización con GitHub.
 
 ![Evidencia de comandos en terminal](imagenes\Captura_1.png)
 ![Evidencia de comandos en terminal](imagenes\Captura_2.png)
 ![Evidencia de comandos en terminal](imagenes\Captura_3.png)
 ![Evidencia de comandos en terminal](imagenes\Captura_4.png)
 
-Pull Request y Fusión
+### Pull Request y Fusión
 
-Se realizó un Pull Request desde la rama feature-preprocesamiento hacia main.
+- Se realizó un Pull Request desde la rama feature-preprocesamiento hacia main.
 Después de la revisión simulada, se aprobó la fusión y se eliminó la rama de desarrollo.
 
 ![Evidencia de Pull Request y fusión](imagenes\Captura_5.png)
@@ -106,7 +106,7 @@ Después de la revisión simulada, se aprobó la fusión y se eliminó la rama d
 ![Evidencia de Pull Request y fusión](imagenes\Captura_8.png)
 ![Evidencia de Pull Request y fusión](imagenes\Captura_9.png)
 
-Ejecución exitosa del Workflow
+### Ejecución exitosa del Workflow
 
 La automatización mediante GitHub Actions se ejecutó correctamente.
 El estado verde indica que el flujo completó todas las tareas sin errores.
@@ -115,4 +115,8 @@ El estado verde indica que el flujo completó todas las tareas sin errores.
 
 ![Evidencia del workflow en verde](imagenes\Captura_10.png)
 
+---
+
+## Enlace al repositorio
+[Ver proyecto en GitHub](https://github.com/Kelly1115/Preprocesamiento-cienciadatos)
 
