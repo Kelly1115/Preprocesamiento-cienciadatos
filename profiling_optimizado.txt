@@ -1,0 +1,60 @@
+Thu Nov 20 03:01:32 2025    d:\Cultura_digital\Preprocesamiento-cienciadatos\codigo_optimizado.prof
+
+         247925 function calls (245808 primitive calls) in 0.601 seconds
+
+   Ordered by: cumulative time
+   List reduced from 693 to 50 due to restriction <50>
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+     95/1    0.001    0.000    0.601    0.601 {built-in method builtins.exec}
+        1    0.000    0.000    0.601    0.601 d:\Cultura_digital\Preprocesamiento-cienciadatos\codigo_optimizado.py:1(<module>)
+    105/2    0.001    0.000    0.452    0.226 <frozen importlib._bootstrap>:1349(_find_and_load)
+    105/2    0.001    0.000    0.452    0.226 <frozen importlib._bootstrap>:1304(_find_and_load_unlocked)
+    103/2    0.001    0.000    0.450    0.225 <frozen importlib._bootstrap>:911(_load_unlocked)
+     94/1    0.001    0.000    0.449    0.449 <frozen importlib._bootstrap_external>:1020(exec_module)
+    251/4    0.000    0.000    0.448    0.112 <frozen importlib._bootstrap>:480(_call_with_frames_removed)
+        1    0.001    0.001    0.448    0.448 C:\Users\kelly\AppData\Local\Programs\Python\Python313\Lib\site-packages\numpy\__init__.py:1(<module>)
+    350/4    0.000    0.000    0.421    0.105 {built-in method builtins.__import__}
+   165/20    0.001    0.000    0.411    0.021 <frozen importlib._bootstrap>:1390(_handle_fromlist)
+       94    0.005    0.000    0.258    0.003 <frozen importlib._bootstrap_external>:1093(get_code)
+        1    0.000    0.000    0.258    0.258 C:\Users\kelly\AppData\Local\Programs\Python\Python313\Lib\site-packages\numpy\lib\__init__.py:1(<module>)
+       94    0.001    0.000    0.227    0.002 <frozen importlib._bootstrap_external>:1214(get_data)
+       94    0.185    0.002    0.185    0.002 {built-in method _io.open_code}
+        1    0.000    0.000    0.156    0.156 C:\Users\kelly\AppData\Local\Programs\Python\Python313\Lib\site-packages\numpy\__config__.py:1(<module>)
+        1    0.000    0.000    0.153    0.153 C:\Users\kelly\AppData\Local\Programs\Python\Python313\Lib\site-packages\numpy\_core\__init__.py:1(<module>)
+        1    0.029    0.029    0.148    0.148 d:\Cultura_digital\Preprocesamiento-cienciadatos\codigo_optimizado.py:25(find_primes_sqrt)
+   100000    0.111    0.000    0.119    0.000 d:\Cultura_digital\Preprocesamiento-cienciadatos\codigo_optimizado.py:9(is_prime_sqrt)
+        1    0.000    0.000    0.108    0.108 C:\Users\kelly\AppData\Local\Programs\Python\Python313\Lib\site-packages\numpy\lib\_polynomial_impl.py:1(<module>)
+        1    0.000    0.000    0.102    0.102 C:\Users\kelly\AppData\Local\Programs\Python\Python313\Lib\site-packages\numpy\lib\_type_check_impl.py:1(<module>)
+        1    0.000    0.000    0.083    0.083 C:\Users\kelly\AppData\Local\Programs\Python\Python313\Lib\site-packages\numpy\lib\_arraypad_impl.py:1(<module>)
+        1    0.000    0.000    0.081    0.081 C:\Users\kelly\AppData\Local\Programs\Python\Python313\Lib\site-packages\numpy\lib\_index_tricks_impl.py:1(<module>)
+   103/95    0.000    0.000    0.071    0.001 <frozen importlib._bootstrap>:806(module_from_spec)
+        1    0.000    0.000    0.068    0.068 C:\Users\kelly\AppData\Local\Programs\Python\Python313\Lib\site-packages\numpy\matrixlib\__init__.py:1(<module>)
+        1    0.000    0.000    0.065    0.065 C:\Users\kelly\AppData\Local\Programs\Python\Python313\Lib\site-packages\numpy\matrixlib\defmatrix.py:1(<module>)
+        4    0.000    0.000    0.065    0.016 <frozen importlib._bootstrap_external>:1318(create_module)
+        4    0.050    0.013    0.065    0.016 {built-in method _imp.create_dynamic}
+        1    0.000    0.000    0.063    0.063 C:\Users\kelly\AppData\Local\Programs\Python\Python313\Lib\site-packages\numpy\linalg\__init__.py:1(<module>)
+        1    0.000    0.000    0.060    0.060 C:\Users\kelly\AppData\Local\Programs\Python\Python313\Lib\site-packages\numpy\_core\multiarray.py:1(<module>)
+        1    0.000    0.000    0.056    0.056 C:\Users\kelly\AppData\Local\Programs\Python\Python313\Lib\site-packages\numpy\linalg\_linalg.py:1(<module>)
+      104    0.001    0.000    0.052    0.000 <frozen importlib._bootstrap>:1240(_find_spec)
+       99    0.000    0.000    0.049    0.000 <frozen importlib._bootstrap_external>:1551(find_spec)
+       99    0.000    0.000    0.049    0.000 <frozen importlib._bootstrap_external>:1522(_get_spec)
+      136    0.002    0.000    0.046    0.000 <frozen importlib._bootstrap_external>:1624(find_spec)
+        1    0.000    0.000    0.038    0.038 C:\Users\kelly\AppData\Local\Programs\Python\Python313\Lib\site-packages\numpy\_typing\__init__.py:1(<module>)
+      362    0.000    0.000    0.038    0.000 <frozen importlib._bootstrap_external>:145(_path_stat)
+       94    0.038    0.000    0.038    0.000 {method 'read' of '_io.BufferedReader' objects}
+      362    0.038    0.000    0.038    0.000 {built-in method nt.stat}
+        1    0.000    0.000    0.026    0.026 C:\Users\kelly\AppData\Local\Programs\Python\Python313\Lib\site-packages\numpy\_core\_machar.py:1(<module>)
+        1    0.000    0.000    0.022    0.022 C:\Users\kelly\AppData\Local\Programs\Python\Python313\Lib\site-packages\numpy\lib\_npyio_impl.py:1(<module>)
+  235/127    0.001    0.000    0.021    0.000 C:\Users\kelly\AppData\Local\Programs\Python\Python313\Lib\typing.py:426(inner)
+        1    0.000    0.000    0.018    0.018 C:\Users\kelly\AppData\Local\Programs\Python\Python313\Lib\site-packages\numpy\_core\fromnumeric.py:1(<module>)
+      123    0.000    0.000    0.018    0.000 <frozen importlib._bootstrap_external>:155(_path_is_mode_type)
+      114    0.000    0.000    0.017    0.000 <frozen importlib._bootstrap_external>:164(_path_isfile)
+        1    0.000    0.000    0.015    0.015 C:\Users\kelly\AppData\Local\Programs\Python\Python313\Lib\site-packages\numpy\_core\_methods.py:1(<module>)
+       94    0.002    0.000    0.015    0.000 <frozen importlib._bootstrap_external>:782(_compile_bytecode)
+        1    0.000    0.000    0.014    0.014 C:\Users\kelly\AppData\Local\Programs\Python\Python313\Lib\site-packages\numpy\_core\_internal.py:1(<module>)
+        1    0.001    0.001    0.014    0.014 C:\Users\kelly\AppData\Local\Programs\Python\Python313\Lib\site-packages\numpy\_typing\_array_like.py:1(<module>)
+       94    0.013    0.000    0.013    0.000 {built-in method marshal.loads}
+        1    0.000    0.000    0.012    0.012 C:\Users\kelly\AppData\Local\Programs\Python\Python313\Lib\site-packages\numpy\lib\format.py:1(<module>)
+
+
