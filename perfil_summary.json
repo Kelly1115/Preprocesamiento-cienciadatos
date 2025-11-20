@@ -1,0 +1,12 @@
+{
+  "original": {
+    "prof_file": "d:\\Cultura_digital\\Preprocesamiento-cienciadatos\\codigo_original.prof",
+    "txt_file": "d:\\Cultura_digital\\Preprocesamiento-cienciadatos\\profiling_original.txt",
+    "total_time": 70.18284629999998
+  },
+  "optimizado": {
+    "prof_file": "d:\\Cultura_digital\\Preprocesamiento-cienciadatos\\codigo_optimizado.prof",
+    "txt_file": "d:\\Cultura_digital\\Preprocesamiento-cienciadatos\\profiling_optimizado.txt",
+    "total_time": 0.6009346000000002
+  }
+}
