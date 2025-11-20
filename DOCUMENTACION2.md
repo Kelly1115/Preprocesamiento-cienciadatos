@@ -82,3 +82,6 @@ El uso del script medir_tiempos.py permitió confirmar estas mejoras con medicio
 ![JSON](imagenes\Ejecución4.png)
 
 ![Generación de gráficas](imagenes\Generación_graficas.png)
+
+## Enlace al repositorio
+[Ver proyecto en GitHub](https://github.com/Kelly1115/Preprocesamiento-cienciadatos)
